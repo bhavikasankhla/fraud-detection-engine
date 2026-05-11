@@ -131,6 +131,7 @@ Default 0.5 threshold missed too many fraud cases. Optimised threshold was chose
 ---
 
 ## Dataset
+https://www.kaggle.com/code/bhavikasankhla/fraud-detection
 
 [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection)  
 590,540 transactions · 3.5% fraud rate · 394 raw features
